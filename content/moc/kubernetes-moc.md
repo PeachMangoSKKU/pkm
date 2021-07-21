@@ -2,4 +2,4 @@
 
 # Kubernetes MOC
 
-- [Assigning Pods](notes/assigning-pods.md)
+- [Assigning Pods](spaces/kubernetes/assigning-pods.md)
