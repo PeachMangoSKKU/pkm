@@ -5,7 +5,7 @@
 I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 - ✉️ Mail - [methodho@gmail.com](mailto:methodho@gmail.com) 
-- 👤 GitHub - [https://github.com/shihyuho](https://github.com/shihyuho)
+- 👤 GitHub - [https://github.com/shihyuho/](https://github.com/shihyuho/)
 
 ## Get Started
 

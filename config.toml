@@ -1,4 +1,5 @@
 baseURL = "https://shihyuho.github.io/pkm/"
+canonifyURLs = true
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
