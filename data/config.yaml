@@ -3,8 +3,6 @@ enableToc: true
 description: Shihyu's personal knowledge management
 page_title: Shihyu's PKM
 links:
-  - link_name: Home
-    link: https://shihyuho.github.io/pkm/
   - link_name: GitHub
     link: https://github.com/shihyuho/
   - link_name: LinkedIn
