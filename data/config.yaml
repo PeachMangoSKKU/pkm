@@ -1,12 +1,13 @@
-name: Jacky Zhao
+name: Shihyu Ho
 enableToc: true
-description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
-page_title:
-  Quartz Example Page
+description: Shihyu's personal knowledge management
+page_title: Shihyu's PKM
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Home
+    link: https://shihyuho.github.io/pkm
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/shihyuho
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/methodho/
+  - link_name: Facebook
+    link: https://www.facebook.com/evermatt
