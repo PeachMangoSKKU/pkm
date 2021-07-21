@@ -1,5 +1,3 @@
-[+home](+home)
-
 # General Understanding 
 
 ![event-sourcing-flow](/spaces/event-sourcing/attachments/event-sourcing-flow.png)

@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Domain Modeling
 
 ## Aggregate

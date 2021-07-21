@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Strategic Design
 > 戰略
 

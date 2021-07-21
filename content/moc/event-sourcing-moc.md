@@ -1,5 +1,3 @@
-[+home](+home.md)
-
 # Event Sourcing MOC
 
 Event Sourcing 一定來自於 [DDD](moc/ddd-moc.md), 簡單來說:

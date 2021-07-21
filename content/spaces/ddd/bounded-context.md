@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Bounded Context
 - 盡可能的具象化
 - 等於是 Aggregate 的群組

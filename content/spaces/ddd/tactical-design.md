@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Tactical Design
 
 > 戰術

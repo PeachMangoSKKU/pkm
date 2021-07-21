@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Guarantee Correctness when writing
 
 由於 Read Model 所提供的資訊, 同時有機會被多個服務或是 Thread 使用, u有個經典的提款問題: 兩個 Thread 在檢查同一帳戶餘額時都是通過的, 但一起下提款 Command 時, 你的帳戶就超支囉!

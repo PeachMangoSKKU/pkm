@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Repository
 
 一個 [[spaces/ddd/aggregate]] 對應一個 Repository

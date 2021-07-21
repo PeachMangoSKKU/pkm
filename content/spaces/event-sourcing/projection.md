@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Projection
 
 Projection 就是用來處理 [event](spaces/ddd/event.md) 的程式邏輯, 基本上就是一推 Event Handlers!

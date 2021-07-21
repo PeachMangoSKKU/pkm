@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Example Mapping
 
 ## Use Case

@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Read Model
 
 Read Model 可以說是在 Event Store 中, 特定的 Event of Stream 的產出。

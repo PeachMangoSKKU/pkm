@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Subdomain
 
 SubDomain 可分:

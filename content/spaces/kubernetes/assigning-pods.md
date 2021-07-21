@@ -1,5 +1,3 @@
-[+home](+home.md)
-
 # Assigning Pods
 
 在部署 Deployment 時, 有些情況我們會希望 Kubernetes 依照我們的需求來安排部署的 Node, 例如:

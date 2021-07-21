@@ -1,5 +1,3 @@
-[+home](+home)
-
 # You may NOT need a read model
 [Read Model](spaces/event-sourcing/read-model.md) 會有一些 Trade off:
 - 最終一致性

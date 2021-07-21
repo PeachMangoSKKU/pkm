@@ -1,5 +1,3 @@
-[+home](+home)
-
 # Aggregate
 - [Event](spaces/ddd/event.md), Command, User 等所有便利貼的集合
 - 使用名詞, 不要出現動詞
