@@ -1,7 +1,7 @@
----
-title: "DDD MOC"
----
-
 [+home](+home.md)
+
+# DDD MOC
+
+
 
 

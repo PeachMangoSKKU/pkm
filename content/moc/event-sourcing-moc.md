@@ -1,5 +1,4 @@
----
-title: "Event Sourcing MOC"
----
-
 [+home](+home.md)
+
+# Event Sourcing MOC
+
