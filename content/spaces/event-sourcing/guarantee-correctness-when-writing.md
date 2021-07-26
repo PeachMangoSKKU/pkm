@@ -11,7 +11,7 @@ Read Model 所提供的資訊, 同時有機會被多個服務或是 Thread 使�
 我們有使用兩個方式來解決這個問題
 
 - [Manage Transactions With a Database](spaces/event-sourcing/manage-transactions-with-database.md) 
-- [aggregate-business-invariants](spaces/event-sourcing/aggregate-business-invariants.md)
+- [Aggregate Business Invariants](spaces/event-sourcing/aggregate-business-invariants.md)
 
 ## Reference
 
