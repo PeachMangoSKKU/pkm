@@ -8,17 +8,17 @@
 
 從 Stream 建立出 Aggregate 時, 必須記住 last event number, 在將新的 event 放入 Stream 前, 必須檢查當前的 Stream 的 event number
 
-![](spaces/event-sourcing/attachments/occ-last-event-number.png)
+![](/spaces/event-sourcing/attachments/occ-last-event-number.png)
 
 當 event number 一樣時代表沒有其他 Transaction 有增加 event, 這時我們才可以寫入新的 event
 
-![](spaces/event-sourcing/attachments/occ-add-new-event.png)
+![](/spaces/event-sourcing/attachments/occ-add-new-event.png)
 
 反之當不一樣時, 就不能寫入新的 event 進 Stream
 
 ### Source Code Example
 
-![](spaces/event-sourcing/attachments/ooc-source-code.png)
+![](/spaces/event-sourcing/attachments/ooc-source-code.png)
 
 ## Kafka
 

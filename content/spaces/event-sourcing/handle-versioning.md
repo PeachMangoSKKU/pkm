@@ -2,11 +2,11 @@
 
 在 Java 世界中, 我們通常透過 Jar 來 share source code, 假設現在是 1.0.0 jar 同時給 Producer 跟 Consumer 使用: 
 
-![](spaces/event-sourcing/attachments/version-v1.png)
+![](/spaces/event-sourcing/attachments/version-v1.png)
 
 當 Producer 調整 event 開始發佈 2.0.0 時, 而所有的 Consumer 又還沒完全跟上時, 我們該怎麼辦?
 
-![](spaces/event-sourcing/attachments/version-v2.png)
+![](/spaces/event-sourcing/attachments/version-v2.png)
 
 ## Solutions
 
