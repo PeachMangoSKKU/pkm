@@ -2,6 +2,8 @@ baseURL = "https://shihyuho.github.io/pkm/"
 canonifyURLs = true
 languageCode = "zh-tw"
 pygmentsUseClasses = true
+relativeURLs = true
+disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
