@@ -59,7 +59,7 @@ patch:
     page_size: 7  # 每頁顯示的選項數目
   key_binder:
     bindings:
-      # 在 Rime 中加入"["和"]"翻页按键绑定
+      # 在 Rime 中加入"["和"]"翻頁按键绑定
       - { when: paging, accept: bracketleft, send: Page_Up }
       - { when: has_menu, accept: bracketright, send: Page_Down }
   schema_list:  # 按 F4 選擇輸入法出現的項目
