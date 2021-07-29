@@ -29,7 +29,7 @@ brew install --cask squirrel
 
 安裝好後, 所有相關的配置可以從 menu 中的輸入法中進入, 更改配置後都需要重新點擊 **Deploy** 始得生效
 
-![](/spaces/umani/attachments/Pasted%20image%2020210728180113.png)
+![](/spaces/umani/attachments/rime-input.png)
 
 ### Custom Settings
 
