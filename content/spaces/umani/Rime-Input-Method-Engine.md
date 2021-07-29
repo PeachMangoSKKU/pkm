@@ -52,6 +52,8 @@ touch /Users/{username}/Library/Rime/default.custom.yaml
 以下列出我目前的配置:
 
 ```yaml
+# default.custom.yaml
+
 patch:
   menu:
     page_size: 7  # 每頁顯示的選項數目
