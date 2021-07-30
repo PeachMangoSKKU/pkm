@@ -51,7 +51,7 @@ touch /Users/{username}/Library/Rime/default.custom.yaml
 patch:
   some_setting: "some value"
   yet:
-  	another_setting: 0
+    another_setting: 0
 ```
 
 可以調整的設定項目可參考官方的[CustomizationGuide](https://github.com/rime/home/wiki/CustomizationGuide) 或[完整的注音輸入 Schema](https://gist.github.com/lotem/3913578)
