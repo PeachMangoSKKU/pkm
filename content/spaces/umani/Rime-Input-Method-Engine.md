@@ -45,7 +45,16 @@ brew install --cask squirrel
 touch /Users/{username}/Library/Rime/default.custom.yaml
 ```
 
-`default.custom.yaml` 是用來覆蓋全域性的配置檔案, 相關的設定可以參考官方的[CustomizationGuide](https://github.com/rime/home/wiki/CustomizationGuide) 或[完整的注音 schema](https://gist.github.com/lotem/3913578)
+`default.custom.yaml` 是用來覆蓋全域性的配置檔案, 你只需要把想要調整的設定項目放在 `patch` 下, 如:
+
+```yaml
+patch:
+  some_setting: "some value"
+  yet:
+  	another_setting: 0
+```
+
+可以調整的設定項目可參考官方的[CustomizationGuide](https://github.com/rime/home/wiki/CustomizationGuide) 或[完整的注音輸入 Schema](https://gist.github.com/lotem/3913578)
 
 ### My Settings
 
