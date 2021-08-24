@@ -4,3 +4,5 @@
 
 
 - [Rime Input Method Engine](spaces/umani/Rime-Input-Method-Engine.md)
+- [Change Data Capture](spaces/umani/cdc.md)
+- [[spaces/umani/keeping-your-fork-update-to-date]]
