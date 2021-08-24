@@ -2,7 +2,7 @@
 
 這種狀況我們可以選擇在 Event Store 之前放一個 Database 去管理 Transaction
 
-我們使用一個 Database 擋在 Event Store 之前, 再使用 [CDC](spaces/+incubation/cdc.md) 抓取 Event Stream 到 Event Store 中, 在個 Database 即稱為 **Transaction Database**
+我們使用一個 Database 擋在 Event Store 之前, 再使用 [CDC](spaces/umani/cdc.md) 抓取 Event Stream 到 Event Store 中, 在個 Database 即稱為 **Transaction Database**
 
 以下圖為例
 
