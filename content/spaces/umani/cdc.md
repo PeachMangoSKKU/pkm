@@ -1,5 +1,5 @@
 ---
-title: "cdc"
+title: "Change Data Capture"
 ---
 
 Change Data Capture 縮寫 CDC, 意指如何發現並捕獲資料源 (Source Database) 的資料變化, 常見的解決方案有:
