@@ -10,7 +10,7 @@ Change Data Capture 縮寫 CDC, 意指如何發現並捕獲資料源 (Source Dat
 
 ## Log-based
 
-![](spaces/umani/attachments/cdc-log-based.png)
+![](/spaces/umani/attachments/cdc-log-based.png)
 
 透過工具監控 Source Database 的 Transaction Log, 常見的工具如: [Debezium](https://debezium.io/)
 
@@ -20,7 +20,7 @@ Change Data Capture 縮寫 CDC, 意指如何發現並捕獲資料源 (Source Dat
 
 ## ETL
 
-![](spaces/umani/attachments/cdc-etl.png)
+![](/spaces/umani/attachments/cdc-etl.png)
 
 透過約定好的 Audit Columns (如 `createdDate`, `lastModifiedDate`) 來進行 ETL
 
@@ -35,7 +35,7 @@ Change Data Capture 縮寫 CDC, 意指如何發現並捕獲資料源 (Source Dat
 
 ## Trigger-based
 
-![](spaces/umani/attachments/cdc-trigger-based.png)
+![](/spaces/umani/attachments/cdc-trigger-based.png)
 
 透過在 Source Database 中設定 Database Trigger 來監控目標 Table
 
