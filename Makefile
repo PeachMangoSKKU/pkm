@@ -5,10 +5,14 @@ help: ## Display this help.
 
 ##@ Preview
 
-backlinks: ## Generate the list of backlinks for Hugo to parse
+setup: ## Install requires package before preview.
+	brew install hugo
+	go install github.com/jackyzha0/hugo-obsidian@latest
+
+backlinks: ## Generate the list of backlinks for Hugo to parse.
 	hugo-obsidian -input=content -output=data
 
-preview: backlinks ## Run Hugo to preview your site locally at http://localhost:1313/
+preview: backlinks ## Run Hugo to preview your site locally at http://localhost:1313/.
 	hugo server
 
 ##@ Publish
